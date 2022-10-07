@@ -46,9 +46,6 @@ Outro exemplo podia ser uma pessoa de idade mais avançada, com 67 anos, 173cm e
 
 A nossa aplicação apresenta a necessidade de uma base de dados, que está relacionado com a nossa cadeira base de dados, de forma que todos os dados recolhidos sejam ordenados e armazenados. Sendo uma aplicação mobile, terá de ter uma interface principal seguida das restantes, tudo enquadrado em programação de dispositivos moveis. Também dentro do relatório aplicamos os conteúdos aprendidos em competências comunicacionais, sendo tudo isto possível apenas com a programação dada em programação orientada a objetos.
 
-**Arquitetura da Solução**
-
-**Requisitos Técnicos para desenvolvimento do projeto**
 
 **Planeamento e calendarização**
 
