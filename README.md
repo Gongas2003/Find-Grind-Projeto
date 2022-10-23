@@ -1,4 +1,5 @@
-CURSO DE ENGENHARIA INFORMÁTICA**
+## **C ![](RackMultipart20221023-1-nqwbmk_html_a9e3558f01d6ed87.png)
+ URSO DE ENGENHARIA INFORMÁTICA**
 
 # **Find&Grind**
 
@@ -14,9 +15,9 @@ _Rui Esteves 20210958_
 
 [_https://github.com/Ruie8/Projeto-mov-l-Find-Grind/projects?query=is%3Aopen_](https://github.com/Ruie8/Projeto-mov-l-Find-Grind/projects?query=is%3Aopen) **OUTUBRO, 2022**
 
-**Descrição da App e problema a resolver**
+## **Introdução**
 
-Decidimos desenvolver uma aplicação, em que o objetivo principal consiste em dar a conhecer à população as várias power stations perto de si. Com esta aplicação tencionamos promover o treino ao ar livre de modo a que seja acessível e prático a todos, independentemente da disponibilidade financeira. Para além disso tencionamos também resolver o problema da falta de informação destas zonas de treino. Vamos também criar planos de treino consoante as máquinas existentes na power station escolhida pelo utilizador. Os treinos para segurança dos utilizadores serão fornecidos com base em sites e aplicações verificadas por profissionais.
+Decidimos desenvolver uma aplicação, em que o objetivo principal consiste em dar a conhecer à população as várias Power stations perto de si. Com esta aplicação tencionamos promover o treino ao ar livre de modo a que seja acessível e prático a todos, independentemente da disponibilidade financeira. Para além disso tencionamos também resolver o problema da falta de informação destas zonas de treino. Vamos também criar planos de treino consoante as máquinas existentes na Power station escolhida pelo utilizador. Os treinos para segurança dos utilizadores serão fornecidos com base em sites e aplicações verificadas por profissionais.
 
 **Objetivos e motivação para realizar o trabalho**
 
@@ -30,26 +31,89 @@ A nossa aplicação é focada no grupo de pessoas que têm como objetivo treinar
 
 **Pesquisa e comparação com o atual mercado**
 
-Através de u ma pesquisa aprofundada, entendemos que o mercado que estamos a explorar encontra-se muito vago, sendo que a única aplicação que se aproxima da nossa, Kompan Outdoor Fitness, é devidamente focado na United Kingdom. Apesar das parecenças entre ambas as aplicações, o nosso mercado é focado em encontrar e localizar os espaços ao ar livre, tanto como ajudar a perceber a cada utilizador o que é mais aconselhado em cada treino. Com outros campos a debater, não encontramos qualquer tipo de facilidade ou informação em relação a estes espaços verdes, sendo disponível apenas um site com algumas destas localizações. ([https://www.nit.pt/fit/ginasios-e-outdoor/10-ginasios-gratuitos-em-lisboa-para-quem-quer-ficar-em-forma-ao-ar-livre/attachment/859507](https://www.nit.pt/fit/ginasios-e-outdoor/10-ginasios-gratuitos-em-lisboa-para-quem-quer-ficar-em-forma-ao-ar-livre/attachment/859507)). Já existindo muitas aplicações com treinos generalizados e ao ar livre, decidimos também que apenas sugerimos treinos para as máquinas disponíveis em cada estação, sendo muito difícil também encontrar no mercado uma aplicação igualmente disponível. Existindo diversas aplicações com esta função, encontramos a utilidade para cada utilizador já que facilita o desempenho em cada caso.
+Através de uma pesquisa aprofundada, entendemos que o mercado que estamos a explorar encontra-se muito vago, sendo que a única aplicação que se aproxima da nossa, Kompan Outdoor Fitness, é devidamente focado na United Kingdom. Apesar das parecenças entre ambas as aplicações, o nosso mercado é focado em encontrar e localizar os espaços ao ar livre, tanto como ajudar a perceber a cada utilizador o que é mais aconselhado em cada treino. Com outros campos a debater, não encontramos qualquer tipo de facilidade ou informação em relação a estes espaços verdes, sendo disponível apenas um site com algumas destas localizações.([https://www.nit.pt/fit/ginasios-e-outdoor/10-ginasios-gratuitos-em-lisboa-para-quem-quer-ficar-em-forma-ao-ar-livre/attachment/859507](https://www.nit.pt/fit/ginasios-e-outdoor/10-ginasios-gratuitos-em-lisboa-para-quem-quer-ficar-em-forma-ao-ar-livre/attachment/859507)). Já existindo muitas aplicações com treinos generalizados e ao ar livre, decidimos também que apenas sugerimos treinos para as máquinas disponíveis em cada estação, sendo muito difícil também encontrar no mercado uma aplicação igualmente disponível. Existindo diversas aplicações com esta função, encontramos a utilidade para cada utilizador já que facilita o desempenho em cada caso.
 
-**Passo a passo de um utilizador**
+**Passo a Passo (Mockups)**
 
-Para a utilização mais eficiente da nossa aplicação o utilizador apenas terá de fazer o download, de seguida colocar os seus dados físicos (Peso, idade, altura...) e aceitar o acesso à localização. Após a aplicação receber os dados o utilizador pode começar a utilizar as suas funcionalidades, tais como entrar no mapa para encontrar as zonas mais próximas, comparar cada zona devido à nossa classificação de cada maquina/ambiente e procurar treinospara todas as faixas etárias. Sendo o objetivo principal para cada utilizador promover treinos de qualidade de forma gratuita, e facilitar a localização de cada zona.
+Neste tópico temos um protótipo de como a aplicação irá ser
 
-Por exemplo para um utilizador com a faixa etária dos 15-18 teremos atenção ao seu crescimento sendo o seu treino diferente de outro utilizador com a faixa etária dos 18-25 que tem uma desempenho melhor que outras faixas etárias, dependendo dos dados apresentados á aplicação. Para um utilizador mais velho, dos 35-45, terá também de apresentar os seus dados físicos à aplicação para que depois esta recomende um treino adequado à sua forma física.
+![](RackMultipart20221023-1-nqwbmk_html_3075955cc282805e.png) ![](RackMultipart20221023-1-nqwbmk_html_3aeb05605ab35fee.png)
 
-Dando um exemplo de uma persona de 23 anos, 183cm e a pesar 75kg, ao entrar na aplicação tem acesso ao mapa no qual está disponível a localização das Power Stations. Ao clicar na estação escolhida não só terá acesso a uma avaliação global da Power Station como também exercícios específicos para o seu peso, altura e idade. Para além disso tem acesso também ao nome e descrição aprofundada das máquinas e que grupo muscular trabalha em cada uma delas.
+1- Página de Introdução 2- Registo do Utilizador
 
-Outro exemplo podia ser uma pessoa de idade mais avançada, com 67 anos, 173cm e a pesar 60kg. Neste caso o processo inicial de utilização da app iria ser igual a outra faixa etária qualquer. O que diferencia é o tipo de treino que é indicado visto que após a receção dos dados a aplicação iria perceber que é uma pessoa mais velha o que gera uma resistência e força diferente.Parte superior do formulário
+![](RackMultipart20221023-1-nqwbmk_html_3df3ec75828f5995.png)
+
+3- Mapa da Aplicação
+
+![](RackMultipart20221023-1-nqwbmk_html_59b80c427ecaadfe.png)
+
+4- Desenvolvimento após pressionar a PowerStation
+
+**Guiões**
+
+1. Um adolescente de 16 anos procura um lugar onde possa treinar com o seu peso corporal e sem gastar dinheiro. Sabendo que existem Power Stations, decide então pesquisar por uma aplicação que identifique os locais exatos das mesmas. Encontra a App Find&Grind na qual após se registar são apresentadas, não só as zonas de treino, como também planos de exercícios adequados para a sua idade, peso e altura. **Parte superior do formulário**
+2. Um jovem adulto com 28 anos, com gosto por atividade física ao ar livre quer encontrar uma PowerStation perto da sua casa para poder treinar sem qualquer compromisso financeiro. Por isso abre a aplicação e consegue localizar várias PowerSations na zona onde mora. Escolhe uma estação conforme a sua avaliação e estado das máquinas e tem acesso a uma plano de treino recomendado pela aplicação, que o faz com base nos dados inseridos pelo jovem-adulto. Após realizar o treino poderá deixar a sua avaliação das máquinas que usou e da zona em que se encontra a PowerStation.Parte inferior do formulário
+## **Parte superior do formulário**
+3. Uma idosa de 60 anos decide que quer voltar à atividade física com peso natural, ao ar livre e sem o receio de se magoar. Então abre a aplicação Find&Grind na qual são localizadas as zonas de treino existentes ao seu redor com planos de treino adequados para a sua idade. Será também apresentada a avaliação dos equipamentos nas Power Stations, de forma a assegurar a utilizadora que não se irá magoar devido ao possível mau estado dos equipamentos.
+## **Parte superior do formulário**
+
+## **Parte inferior do formulário**
+
+## **Parte inferior do formulário**
 
 **Enquadramento nas diversas unidades curriculares.**
 
 A nossa aplicação apresenta a necessidade de uma base de dados, que está relacionado com a nossa cadeira base de dados, de forma que todos os dados recolhidos sejam ordenados e armazenados. Sendo uma aplicação mobile, terá de ter uma interface principal seguida das restantes, tudo enquadrado em programação de dispositivos moveis. Também dentro do relatório aplicamos os conteúdos aprendidos em competências comunicacionais, sendo tudo isto possível apenas com a programação dada em programação orientada a objetos.
 
+**Arquitetura da Solução**
+
+A aplicação que estamos a desenvolver irá ter uma larga informação fornecida ao utilizador e para tal acontecer iremos ter como arquitetura as seguintes áreas:
+
+-Base de dados
+
+-Backend Api
+
+-Frontend/Aplicaçao Android
+
+Ligando a base de dados à Backend Api, é necessário que seja uma conexão rápida e com disponibilidade de armazenamento. O armazenamento terá que ser organizado da melhor forma para o backend responder a serviços da Frontend da forma mais rápida e fácil possível.
+
+**Armazenamento**
+
+Vamos precisar de um armazenamento constante visto que a nossa aplicação funciona a base de todos os dados inseridos pelos utilizadores em que esses mesmos dados terão que ser armazenados. Para otimizar a segurança do utilizador a base de dados não terá qualquer ligação com o exterior apenas com o Backend.
+
+**Backend API**
+
+Na backend API vamos desenvolver os pedidos vindos da Frontend para desenvolver uma resposta. Vai ter obrigatoriamente uma conexão constante com a base de dados e possivelmente com outros serviços.
+
+**Frontend/Aplicação Android**
+
+A frontend irá ser onde se desenvolve as partes gráficas e vistas pelo utilizador para além disso vai também ser onde se vai emitir os pedidos de resposta à Backend e consequentemente à base de dados.
+
+**Requisitos Técnicos para desenvolvimento do projeto**
+
+Para o desenvolvimento da nossa aplicação, vamos precisar de utilizar diversas competências aprendidas.
+
+Linguagem Java para desenvolvimento do Backend.
+
+SQL para configuração e manuseamento da nossa Base de Dados
+
+Programação Móvel para o desenvolvimento da aplicação e do Frontend.
+
+**Tecnologias a Usar**
+
+Base de Dados – PostgreSQL
+
+Backend API - SpringBoot
+
+Frontend - Android Studio
+
+Design – Android Studio
 
 **Planeamento e calendarização**
 
-![](RackMultipart20221007-1-qklto_html_85835f4d7615837d.png)
+![](RackMultipart20221023-1-nqwbmk_html_52770ee4beb666ea.png)
+
+A calendarização está dividida em 3 fases Base de Dados, Backend e Frontend.
 
 **Bibliografia**
 
