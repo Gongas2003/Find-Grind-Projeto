@@ -53,13 +53,7 @@ Neste tópico temos um protótipo de como a aplicação irá ser
 
 1. Um adolescente de 16 anos procura um lugar onde possa treinar com o seu peso corporal e sem gastar dinheiro. Sabendo que existem Power Stations, decide então pesquisar por uma aplicação que identifique os locais exatos das mesmas. Encontra a App Find&Grind na qual após se registar são apresentadas, não só as zonas de treino, como também planos de exercícios adequados para a sua idade, peso e altura. **Parte superior do formulário**
 2. Um jovem adulto com 28 anos, com gosto por atividade física ao ar livre quer encontrar uma PowerStation perto da sua casa para poder treinar sem qualquer compromisso financeiro. Por isso abre a aplicação e consegue localizar várias PowerSations na zona onde mora. Escolhe uma estação conforme a sua avaliação e estado das máquinas e tem acesso a uma plano de treino recomendado pela aplicação, que o faz com base nos dados inseridos pelo jovem-adulto. Após realizar o treino poderá deixar a sua avaliação das máquinas que usou e da zona em que se encontra a PowerStation.Parte inferior do formulário
-## **Parte superior do formulário**
 3. Uma idosa de 60 anos decide que quer voltar à atividade física com peso natural, ao ar livre e sem o receio de se magoar. Então abre a aplicação Find&Grind na qual são localizadas as zonas de treino existentes ao seu redor com planos de treino adequados para a sua idade. Será também apresentada a avaliação dos equipamentos nas Power Stations, de forma a assegurar a utilizadora que não se irá magoar devido ao possível mau estado dos equipamentos.
-## **Parte superior do formulário**
-
-## **Parte inferior do formulário**
-
-## **Parte inferior do formulário**
 
 **Enquadramento nas diversas unidades curriculares.**
 
